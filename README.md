@@ -14,4 +14,4 @@ In this Jupyter notebook I did an exercise of churn prediction in a telecom comp
 In this Jupyter notebook I did a tiny exploratory analysis exercise using pandas and matplotlib libraries.
 
 ## 2207_Entrega_final_ML_Course.py
-This script was the final work of a ML Course which I took in Ceinpro Academy.
+This script was the final work of a ML Course I took in Ceinpro Academy.
