@@ -10,6 +10,15 @@ In this Jupyter notebook I did some exploratory analysis work on credit data inf
 ## 2312_churn_telecom_company.ipynb
 In this Jupyter notebook I did an exercise of churn prediction in a telecom company. I got a classifier who returns a list of the 100 most probable clients to churn amongst all the clients of the dataset.
 
+## 2310_analyzing_crime_in_los_angeles.ipynb
+In this Jupyter notebook I explore data on LA crimes and consider some questions to answer using the data.
+
+## 2309_exploring_nyc_public_school_test_result_scores.ipynb
+In this Jupyter notebook I explore data on NYC public school test "SAT" and consider some questions to answer using the data.
+
+## 2309_visualizing_the_history_of_Nobel_prize_winners.ipynb
+In this Jupyter notebook I explore data on Nobel prize winners and consider some questions to answer using the data.
+
 ## 2309_netflix_investigating_movies.ipynb
 In this Jupyter notebook I did a tiny exploratory analysis exercise using pandas and matplotlib libraries.
 
