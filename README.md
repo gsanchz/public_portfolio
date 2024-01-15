@@ -8,7 +8,10 @@ In this Jupyter notebook I did an exploratory analysis of an anonymized dataset 
 In this Jupyter notebook I did some exploratory analysis work on credit data info. Later, I made a preprocessing work on the data, a study of classifiers and tried to get the best possible classifier of reliable and not reliable clients.
 
 ## 2312_churn_telecom_company.ipynb
-In this Jupyter notebook I did an exercise of churn prediction in a telecom company. I got a classifier who returns a list of the 100 most probable clients to churn amongst all the clients of the dataset.
+In this Jupyter notebook I did an exercise in churn prediction in a telecom company. I got a classifier who returns a list of the 100 most probable clients to churn amongst all the clients of the dataset.
+
+## 2310_handling_data_space_for_modeling.ipynb
+In this Jupyter notebook, I did an exercise in selecting the dtype for efficient storage and, finally, for fast model training. I make a brief statement and show about the advantages of categorical dtypes (apart from its storage efficient advantages).
 
 ## 2310_analyzing_crime_in_los_angeles.ipynb
 In this Jupyter notebook I explore data on LA crimes and consider some questions to answer using the data.
